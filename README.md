@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Jamie Chisholm and I am studying at **Mount Allison University**
+
+I am majoring in Computer Science and Mathematics and am currently working on Sheepytime the game
+
+
+
+
 <!--
 **jachisholm6/jachisholm6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
