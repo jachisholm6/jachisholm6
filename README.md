@@ -2,7 +2,7 @@
 
 My name is Jamie Chisholm and I am studying at **Mount Allison University**
 
-I am majoring in Computer Science and Mathematics and am currently working on Sheepytime the game
+I am majoring in Computer Science and Mathematics with a Certificate in Data Management.
 
 
 
